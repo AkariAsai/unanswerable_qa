@@ -25,11 +25,13 @@ In this work, we conduct several baseline experiments to identify the remaining 
 Citation and Contact
 If you find this codebase is useful or use in your work, please cite our paper.
 
+```
 @inproceedings{
 asai2020learning,
-title={Challenges in Information Seeking QA:Unanswerable Questions and Paragraph Retrieval},
+title={Challenges in Information Seeking QA: Unanswerable Questions and Paragraph Retrieval},
 author={Akari Asai and Eunsol Choi},
 booktitle={ACL-IJCNLP},
 year={2021}
 }
+``` 
 Please contact Akari Asai (@AkariAsai, akari[at]cs.washington.edu) for questions and suggestions.
