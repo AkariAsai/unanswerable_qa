@@ -1,0 +1,101 @@
+data	language	question	Translated question	category	answer	original_page	answer_page	answer in different_wiki	answer in non-Wikipedia article on the web	answer in infobox/table				
+tydi	korean	독일에서 가장 큰 대학은 어디인가?	What's the largest university in Germany?	1		https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85%EB%8C%80%ED%95%99%EA%B5%90		0	0	0				
+tydi	korean	캐나다의 1대 대통령은 누구인가요?	Who is the first president of Canada?	1	존 맥도널드	https://ko.wikipedia.org/wiki/%EC%BA%90%EB%82%98%EB%8B%A4%EC%9D%98%20%EC%B4%9D%EB%A6%AC		0	0	1				
+tydi	korean	2018년 미국에서 가장 많이 판매된 자동차는 무엇인가	Which car sold the most in US in 2018?	1		https://ko.wikipedia.org/wiki/%EC%A0%84%EA%B8%B0%EC%9E%90%EB%8F%99%EC%B0%A8			1					
+tydi	korean	2019년 5월 기준, 미국 프로 야구에서 가장 높은 주급을 받는 선수는 누구인가?	Which player in MLB league receive the highest salary in May 2019?	1	Mike Trout	https://ko.wikipedia.org/wiki/%EC%98%A4%ED%83%80%EB%8B%88%20%EC%87%BC%ED%97%A4%EC%9D%B4	https://www.forbes.com/sites/kurtbadenhausen/2019/04/01/baseballs-highest-paid-players-2019-mike-trout-leads-with-39-million/#4d2fdd186cc7		1					
+tydi	korean	2019년 세상에서 가장 많이 쓰이는 메신저는 무엇인가?	What's the most popular messaging app in the world in 2019?	1	WhatsApp	https://ko.wikipedia.org/wiki/%EC%86%8C%EC%85%9C%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%9C%EB%B9%84%EC%8A%A4			1					
+tydi	korean	2019년 한국에는 몇 개의 자동차 회사가 있는가?	In 2019, how many automobile companies exist in South Korea?	1	5	https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98%20%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C			1					
+tydi	korean	르네 마그리트의 마지막 작품은 무엇인가?	What's the last work of Rene Magritte?	1	Le dernier cri	https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98%20%EB%B0%B0%EB%B0%98			1					
+tydi	korean	에픽 게임즈의 2018년 주가는 얼마인가?	What's the price of share for Epic Games in 2018?	1	answer is visual	https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%A7%88%EC%9D%BC%EA%B2%8C%EC%9D%B4%ED%8A%B8			1					
+tydi	korean	제주도에서 서울까지의 거리는 얼마나 되나요?	What's the distance between Jeju and Seoul?	1		https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%A3%BC%EB%8F%84			1					
+tydi	korean	캐나다에서 가장 인구밀도가 낮은 도시는 어디인가?	Which city in Canada is the least dense?	1	Nunavet	https://ko.wikipedia.org/wiki/%EC%BA%90%EB%82%98%EB%8B%A4			1					
+tydi	korean	캘리포니아주에는 몇개의 초등학교가 있나요?	How many elementary school exist in California?	1	362	https://ko.wikipedia.org/wiki/%EC%83%8C%EB%94%94%EC%97%90%EA%B3%A0			1					
+tydi	korean	포켓몬스터에서 가장 큰 포켓몬은 무엇인가?	What's the largest pokemon in pokemonster?	1	Onix	https://ko.wikipedia.org/wiki/%ED%95%98%EC%95%BC%EC%8B%9C%EB%B0%94%EB%9D%BC%20%EB%A9%94%EA%B5%AC%EB%AF%B8	https://levelskip.com/rpgs/Pokemon-Top-10-Largest-Pokemon		1					
+tydi	korean	2016년 독일 총리는 누구인가요?	Who is the prime minister of Germany in 2016?	1	앙겔라 메르켈	https://ko.wikipedia.org/wiki/%EB%8F%85%EC%9D%BC%EC%9D%98%20%EC%B4%9D%EB%A6%AC%20%EB%AA%A9%EB%A1%9D		1						45
+tydi	korean	2018년 미국에서 가장 흥행한 영화는 무엇인가?	Which movie was the most popular in US in 2018?	1	Black Panther	https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98%20%EC%98%81%ED%99%94%20%ED%9D%A5%ED%96%89%20%EA%B8%B0%EB%A1%9D		0						
+tydi	korean	2019년 인천의 시장은 누구인가?	Who is the mayor of Incheon in 2019?	1	박남춘	https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%EC%9E%A5		1						
+tydi	korean	거시경제학은 영어로 뭐라고 쓰나요?	How do you write macroeconomics in English?	1	macroeconomics	https://ko.wikipedia.org/wiki/%ED%8F%B4%20%ED%81%AC%EB%A3%A8%EA%B7%B8%EB%A8%BC		1						
+tydi	korean	골키퍼 조현우의 생일은 언제인가요?	When is the birthday of goalie Jo Hyeon-woo?	1		https://ko.wikipedia.org/wiki/%EB%8B%A4%EB%B9%84%EB%93%9C%20%EB%8D%B0%20%ED%97%A4%EC%95%84		1						
+tydi	korean	김대중 대통령의 배우자는 누구인가요?	Who is the wife of President Kim Dae-jung?	1	이희호	https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EB%8C%80%ED%86%B5%EB%A0%B9%EC%9D%98%20%EB%B0%B0%EC%9A%B0%EC%9E%90				1				
+tydi	korean	김부식은 언제 죽었는가?	When did Gim Busik die?	1	1128년	https://ko.wikipedia.org/wiki/%EC%96%91%EB%A7%8C%EC%B6%98		1						
+tydi	korean	노벨 물리학상을 처음 받은 사람은 누구인가?	Who received the Nobel Prize for Physics for the first time?	1	빌헬름 콘라트 뢴트겐	https://ko.wikipedia.org/wiki/%EB%85%B8%EB%B2%A8%EC%83%81		1		1				
+tydi	korean	노벨 물리학상을 처음 수상한 사람은 누구인가?	Who received the Nobel Prize for Physics for the first time?	1	빌헬름 콘라트 뢴트겐	https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%B3%B8%EC%9D%98%20%EB%85%B8%EB%B2%A8%EC%83%81%20%EC%88%98%EC%83%81%EC%9E%90%20%EB%AA%A9%EB%A1%9D		1		1				
+tydi	korean	닥터후를 처음 방영한 날짜는 언제인가?	When was Doctor Who first broadcasted?	1	1963년 11월 23일	https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC%3A%EC%A2%8B%EC%9D%80%20%EA%B8%80%20%ED%9B%84%EB%B3%B4/Rose%20%28%EB%8B%A5%ED%84%B0%20%ED%9B%84%29		1						
+tydi	korean	독일의 2018년 대통령은 누구인가요?	Who's the head of Germany in 2018?	1	앙겔라 메르켈	https://ko.wikipedia.org/wiki/2018%EB%85%84%20%EB%8F%99%EA%B3%84%20%EC%98%AC%EB%A6%BC%ED%94%BD		1		1				
+tydi	korean	독일의제 2대 총리는 누구인가요?	Who is the second prime minister of Germany?	1	루트비히 에르하르트	https://ko.wikipedia.org/wiki/%EB%8F%85%EC%9D%BC%EC%9D%98%20%EC%B4%9D%EB%A6%AC%20%EB%AA%A9%EB%A1%9D				1				
+tydi	korean	루브르 박물관은 어디에 있는가?	Where is Museum Louvre located?	1		https://ko.wikipedia.org/wiki/%EA%B8%B8%EA%B0%80%EB%A9%94%EC%8B%9C		1						
+tydi	korean	리겔의 적경은 무엇인가요?	What is the right ascension of Rigel?	1	05h 14m 32.27210s	https://ko.wikipedia.org/wiki/%EC%98%A4%EB%A6%AC%EC%98%A8%EC%9E%90%EB%A6%AC		1						
+tydi	korean	바이올린의 현은 몇 개인가?	How many strings do violin have?	1	4	https://ko.wikipedia.org/wiki/%EB%A3%A8%ED%8A%B8%EB%B9%84%ED%9E%88%20%ED%8C%90%20%EB%B2%A0%ED%86%A0%EB%B2%A4		1						
+tydi	korean	불교의 출가 수행자를 뭐라고 가리키나요?	How do you refer to Buddhist monks?	1	승려	https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%82%B4		1						
+tydi	korean	세미놀 전쟁에 참여한 교전국은 몇개인가요?	How many countries participate in Seminole Wars?	1	3	https://ko.wikipedia.org/wiki/%EB%B9%84%ED%8B%80%EC%A6%88		1						
+tydi	korean	세상에서 가장 국회위원이 적은 나라는 어디인가?	Which country has the smallest number of parliament member?	1	Cocos (Keeling) Islands, Vatican City	https://ko.wikipedia.org/wiki/%ED%99%8D%EC%A4%80%ED%91%9C								
+tydi	korean	세상에서 가장 긴 팝송은 무엇인가?	What's the longest pop song in the world?	1	Apparente Libertà	https://ko.wikipedia.org/wiki/Bohemian%20Rhapsody								
+tydi	korean	스타크래프트1은 언제 출시 되었는가?	When was Star Craft 1 came out?	1	1998	https://ko.wikipedia.org/wiki/%EA%B5%AC%EA%B8%80		1						
+tydi	korean	신청년 창립주는 누군가요?	Who founded the magazine named “New Youth”?	1	Chen Duxiu	https://ko.wikipedia.org/wiki/%EB%8F%84%EB%84%90%EB%93%9C%20%ED%8A%B8%EB%9F%BC%ED%94%84								
+tydi	korean	알파고와 이세돌이 바둑 대결을 벌인 해는 언제인가?	In which year did Alpha Go and Lee Sedol do a Go battle?	1	2016	https://ko.wikipedia.org/wiki/KBS%20%EB%B0%94%EB%91%91%EC%99%95%EC%A0%84		1						
+tydi	korean	에이브러햄 링컨 사망일은 언젠가요?	When did Abraham Lincoln die?	1	1865년 4월 15일	https://ko.wikipedia.org/wiki/%EC%B6%94%EC%88%98%EA%B0%90%EC%82%AC%EC%A0%88		1						
+tydi	korean	영국 축구 국가대표팀 별칭은 무엇인가요?	What's the nickname for England national soccer team?	1	three lions	https://ko.wikipedia.org/wiki/%EC%9E%89%EA%B8%80%EB%9E%9C%EB%93%9C%20%EC%B6%95%EA%B5%AC%20%EA%B5%AD%EA%B0%80%EB%8C%80%ED%91%9C%ED%8C%80		1		1				
+tydi	korean	영국의 템즈강은 어디에 있나요?	Where is Themes river located in UK?	1	런던	https://ko.wikipedia.org/wiki/Aliens%20of%20London		1						
+tydi	korean	영어의  ISO 639-1 언어부호는 무엇인가요?	What's the ISO 639-1 code for English?	1	en	https://ko.wikipedia.org/wiki/%EC%98%81%EC%96%B4				1				
+tydi	korean	이양생은 언제 태어났나요?	When was Lee Yang-saeng born?	1	1423	https://ko.wikipedia.org/wiki/%EA%B0%95%EC%9E%90%EC%88%9C		1						
+tydi	korean	이오의 근점은 무엇인가요?	What is periapsis of Io?	1		https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%A1%9C%ED%8C%8C%20%28%EC%9C%84%EC%84%B1%29				1				
+tydi	korean	일본 아베 총리는 언제 총리로 당선되었나요?	When was Abe elected as a prime minister?	1	2006, 2012, 2017	https://ko.wikipedia.org/wiki/%ED%95%9C%EC%9D%BC%20%EA%B4%80%EA%B3%84		1						
+tydi	korean	일본 토에이 창립 연도는 언젠가요?	When was Toei Animation founded?	1	1956년 1월 23일	https://ko.wikipedia.org/wiki/%EB%AF%B8%ED%95%98%EB%9D%BC%20%EC%98%A4%EC%82%AC%EB%AC%B4				1				
+tydi	korean	일본국유철도는의 창립주는 누구인가요?	Who founded Japanese National Railways?	1	Douglas MacArthur, Government of Japan	https://ko.wikipedia.org/wiki/NTT%20%EB%8F%84%EC%BD%94%EB%AA%A8%20%EC%9A%94%EC%9A%94%EA%B8%B0%20%EB%B9%8C%EB%94%A9		0						
+tydi	korean	일본에서 가장 오랜 기간 임기를 지킨 총리는 누구인가?	Who is the longest running prime minister in Japan?	1	아베 신조	https://ko.wikipedia.org/wiki/%EA%B9%80%EB%8C%80%EC%A4%91		1						
+tydi	korean	일본에서 가장 큰 호수는 무엇인가?	What's the largest lake in Japan?	1	비와 호	https://ko.wikipedia.org/wiki/%EB%8F%84%EB%84%A4%EA%B0%95		1						
+tydi	korean	적십자가 유래된 나라는 어디인가?	In which country was red cross originated from?	1	스위스	https://ko.wikipedia.org/wiki/%EB%85%B8%EB%B2%A8%EC%83%81								
+tydi	korean	제 1대 교황은 누구인가요?	Who is the first pope?	1	성 베드로	https://ko.wikipedia.org/wiki/%EA%B5%90%ED%99%A9%20%EB%AA%A9%EB%A1%9D				1				
+tydi	korean	존 F. 케네디 국제공항 지리 좌표는 무엇인가요?	What's the coordinate for JFK airport?	1	북위 40° 38′ 23″ 서경 073° 46′ 44″	https://ko.wikipedia.org/wiki/%EB%B2%84%EB%AE%A4%EB%8B%A4%20%EC%82%BC%EA%B0%81%EC%A7%80%EB%8C%80		1						
+tydi	korean	중국의 타오바오 회사는 언제 설립 했나요?	When was the TaoBao company founded?	1	2003	https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%B2%A0%EC%9D%B4		1		1				
+tydi	korean	지구에서 보이는 가장 밝은 별은 무엇인가?	What's the most bright star you can see from Earth?	1	시리우스	https://ko.wikipedia.org/wiki/%EC%9D%80%ED%95%98%EC%88%98		1						
+tydi	korean	최초로 지문 인식 센서사 탑제된 스마트폰은 무엇인가?	What's the first smart phone that can recognize fingerprint?	1	Motorola Atrix 4G	https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%ED%8F%B0								
+tydi	korean	코에이 회사는 최근 어떤 회사를 인수하였나요?	Which company was merged by Koei Tecmo Games recently?	1	테크모	https://ko.wikipedia.org/wiki/%EA%B5%AC%EA%B8%80		1						
+tydi	korean	테런스 던 롱은 언제 태어났나요?	When was Terence Young born?	1	1915	https://ko.wikipedia.org/wiki/%EC%A1%B4%20%EB%A0%88%EB%85%BC		1						
+tydi	korean	토론토 주지사는 누구인가요?	Who is the governor of Toronto?	1	John Tory	https://ko.wikipedia.org/wiki/%ED%86%A0%EB%A1%A0%ED%86%A0								
+tydi	korean	표트르 알렉세예비치 크로포트킨의 어머니는 어떤 장군의 딸인가요?	Whose daughter is Peter Kropotkin's mother?	1	카자크 장군	https://ko.wikipedia.org/wiki/%EB%B8%94%EB%9D%BC%EB%94%94%EB%AF%B8%EB%A5%B4%20%EB%A0%88%EB%8B%8C		1						
+tydi	korean	현대 카드 그룹은 언제 설립 되었나요?	When was Hyundai Card Co.,Ltd. founded?	1	2001	https://ko.wikipedia.org/wiki/%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8		1						
+tydi	korean	화가자리 베타의 절대등급은 무엇인가요?	What's the magnitude of Beta Pictoris?	1	3.861	https://ko.wikipedia.org/wiki/%ED%99%94%EA%B0%80%EC%9E%90%EB%A6%AC%20%EB%B2%A0%ED%83%80				1				
+tydi	korean	마초는 언제 촉의 5호대장군이 되었는가?	When did Ma Chao became Five Tiger Generals under Liu Bei?	2		https://ko.wikipedia.org/wiki/%EA%B4%80%EC%9A%B0								
+tydi	korean	공리주의는 영국에 어떤 영향을 미쳤는가?	How did utilitarianism affect UK?	4		https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%9F%AC%EB%AF%B8%20%EB%B2%A4%EB%8B%B4								
+tydi	korean	미국에서 가장 오래된 미식축구 팀은 어디인가?	What's the oldest football team in US?	4		https://ko.wikipedia.org/wiki/%EB%85%B8%ED%84%B0%EB%8D%B0%EC%9E%84%20%EB%8C%80%ED%95%99%EA%B5%90								
+tydi	korean	버뮤다 삼각지대는 실제로 존재하는가?	Does Bermuda Triangle exist in real life?	4		https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%B0%A9%EB%A5%99%20%EC%9D%8C%EB%AA%A8%EB%A1%A0								
+tydi	korean	세계관의 요소는 무엇인가?	What comprises aspects of world view?	4		https://ko.wikipedia.org/wiki/%EC%86%8C%EC%84%A4								
+tydi	korean	세상에서 가장 오래된 축구팀이 어디인가?	Which soccer team has the longest history?	4		https://ko.wikipedia.org/wiki/%EC%B6%95%EA%B5%AC								
+tydi	korean	족보명과 성은 어떤 차이가 있는가?	What's the difference between name from Korean family tree and surname?	4		https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%9D%98%20%EC%84%B1%EC%94%A8%EC%99%80%20%EC%9D%B4%EB%A6%84								
+tydi	korean	초자연과 픽션의 차이점은?	What's the difference between supernatural and fiction?	4		https://ko.wikipedia.org/wiki/%ED%8C%90%ED%83%80%EC%A7%80%20%EB%AC%B8%ED%95%99								
+tydi	korean	캐나다에서 가장 세금이 낮은 주는 어디인가?	Which state in Canada has lowest tax rate?	4		https://ko.wikipedia.org/wiki/%EC%BA%90%EB%82%98%EB%8B%A4								
+tydi	korean	2019년 6월 기준, 일본에서 새로 열린 시대는 무엇인가?	What's the new era that opened in Japan in June 2019?	5		https://ko.wikipedia.org/wiki/%ED%97%A4%EC%9D%B4%EC%84%B8%EC%9D%B4%20%EC%8B%9C%EB%8C%80								
+tydi	korean	그리스에는 몇 개의 축구팀이 있는가?	How many soccer team are there in Greece?	5		https://ko.wikipedia.org/wiki/%EC%B6%95%EA%B5%AC								
+tydi	korean	보스턴 셀틱스의 웹사이트는 무엇인가요?	What's the url of Boston Celtic's website?	5		https://ko.wikipedia.org/wiki/%EC%A0%84%EB%AF%B8%20%EB%86%8D%EA%B5%AC%20%ED%98%91%ED%9A%8C								
+tydi	korean	보스턴은 몇 번째로 큰 도시인가?	How would Boston rank for the size of the city?	5		https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%8A%A4%ED%84%B4								
+tydi	korean	사법농단이란 무엇인가?	What is judicial nongdan?	5		https://ko.wikipedia.org/wiki/%EC%83%81%EA%B3%A0%EB%B2%95%EC%9B%90								
+tydi	korean	상피 조직의 바닥면은 바닥막 및 반부착반점(hemidesmosome) 등의 구조를 통해 세포외바탕질과 이어져 있나요?		5		https://ko.wikipedia.org/wiki/%EC%83%81%ED%94%BC%20%EC%A1%B0%EC%A7%81								
+tydi	korean	세상에서 가장 많이 판매된 수필집은 무엇인가?	Which essay book sold the most copies in the world?	5		https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%A7%80%EC%98%81								
+tydi	korean	세상에서 가장 비싼 포커 카드는 무엇인가?	What's the most expensive poker card in the world?	5		https://ko.wikipedia.org/wiki/%EA%B0%9C%EC%9D%B8%EC%9A%A9%20%EC%BB%B4%ED%93%A8%ED%84%B0								
+tydi	korean	어나니머스는 언제 조직되었는가?	When was anonymous organized?	5		https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%A6%AC%ED%81%AC%EC%8A%A4								
+tydi	korean	영국 최초의 극장은 언제 완공되었는가?	When did the first theater in UK finished?	5		https://ko.wikipedia.org/wiki/63%EB%B9%8C%EB%94%A9								
+tydi	korean	인류 역사상 가장 처음 세례를 받은 사람은 누구인가?	In the history of mankind, who is the first person to be baptized?	5		https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%9D%98%20%EB%A1%9C%EB%A7%88%20%EA%B0%80%ED%86%A8%EB%A6%AD%EA%B5%90%ED%9A%8C								
+tydi	korean	제갈량이 유비를 도운 것은 언제인가?	When did Zhuge Liang help Liu Bei?	5		https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%B9%84								
+tydi	korean	한국에 가장 많은 교단은 어디인가?	What is the religious sector in Korea with the largest number of followers?	5		https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%9D%98%20%EA%B8%B0%EB%8F%85%EA%B5%90								
+tydi	korean	한국의 독립 운동가는 몇 명인가?	How many freedom fighters exist in Korea?	5		https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%A1%B1%EB%8C%80%ED%91%9C%2033%EC%9D%B8								
+tydi	korean	2018년 캐나다에서 영주권을 취득한 한국인은 몇명인가?	How many Koreans acquired greencard of Canada in 2018?	6		https://ko.wikipedia.org/wiki/%EC%9E%AC%EC%99%B8%ED%95%9C%EC%9D%B8	https://open.canada.ca/data/en/dataset/f7e5498e-0ad8-4417-85c9-9b8aff9b9eda	0	1	0				
+tydi	korean	2018년 IT산업으로 가장 많은 수익을 기록한 나라는 어디인가?	Which country had the most profit from IT industry in 2018?	6		https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%B2%A0%EC%9D%B4								
+tydi	korean	2018년 사법고시에 합격한 사람은 몇 명인가?	How many people passed the Korean national bar exam in 2018?	6		https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9B%90%EC%B1%85								
+tydi	korean	2018년 한국에서 가장 높은 가격에 경매된 물건은 무엇인가?	In 2018, what was sold at the highest price at an auction in Korea?	6		https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%B2%A0%EC%9D%B4								
+tydi	korean	2018년 합격한 KBS 공채 개그맨은 몇 명인가?	How many people become newly employed by KBS (Korean brodcasting company) as comedian through their yearly recruitiment in 2018?	6		https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98%20%ED%9D%AC%EA%B7%B9%EC%9D%B8%20%EB%AA%A9%EB%A1%9D								
+tydi	korean	2019년 지구상에는 몇 개의 축구 리그가 있는가?	In 2019, how many football league exist in the world?	6		https://ko.wikipedia.org/wiki/FIFA%20%EC%9B%94%EB%93%9C%EC%BB%B5	https://www.quora.com/How-many-football-leagues-are-there-in-the-whole-world							
+tydi	korean	2019년까지 가장 많은 계약직을 정직원으로 전환한 기업은 어디인가?	Which company have employed the most number of contract workers as full time workers until 2019?	6		https://ko.wikipedia.org/wiki/%EB%B9%84%EC%A0%95%EA%B7%9C%EC%A7%81								
+tydi	korean	2019년까지 독일에서 가장 많은 앨범을 발표한 가수는 누구인가?	Who published the largest number of record in Germany until 2019?	6		https://ko.wikipedia.org/wiki/%ED%80%B8%20%28%EB%B0%B4%EB%93%9C%29								
+tydi	korean	가장 많은 전과를 가진 사람은 누구인가?	Who has the world record on the number of criminal records?	6		https://ko.wikipedia.org/wiki/%EA%B9%80%EB%8C%80%EC%A4%91								
+tydi	korean	닥터 후 시리즈 중 가장 높은  시청률을 기록한 시리즈는 무엇인가?	Which Doctor Who series scored the highest view rate?	6		https://ko.wikipedia.org/wiki/%EC%BD%94%EB%93%9C%20%EB%B8%94%EB%A3%A8%20-%EB%8B%A5%ED%84%B0%ED%97%AC%EA%B8%B0%EA%B8%B4%EA%B8%89%EA%B5%AC%EB%AA%85-								
+tydi	korean	대한민국의 초등학교는 총 몇 개가 있는가?	How many elementary school exist in Republic of Korea?	6		https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98%20%ED%96%89%EC%A0%95%20%EA%B5%AC%EC%97%AD								
+tydi	korean	동남아시아 최초로 MLB에 진출한 선수는 누구인가?	Which ahtlete from southeast asia made to MLB for the first time?	6		https://ko.wikipedia.org/wiki/%EB%A9%94%EC%9D%B4%EC%A0%80%20%EB%A6%AC%EA%B7%B8%20%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%B3%BC								
+tydi	korean	미국의 최초의 시멘트 회사는 무엇인가요?	Which company is the first cement company in US?	6		https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%A9%98%ED%8A%B8								
+tydi	korean	벨기에에는 몇 개의 초등학교가 있나요?	How many elementary school are there in Belgium?	6		https://ko.wikipedia.org/wiki/%EB%B2%A8%EA%B8%B0%EC%97%90								
+tydi	korean	브라질에는 몇 개의 축구 클럽이 있는가?	How many soccer clubs are there in Brazil?	6		https://ko.wikipedia.org/wiki/%EC%B6%95%EA%B5%AC								
+tydi	korean	인터플레이 엔터테인먼트의 2018 재직자 수는 몇명인가요?	How many employee did Interplay Entertainment have in 2018?	6		https://ko.wikipedia.org/wiki/%EB%A1%9C%ED%81%90%EB%B8%8C%21								
+tydi	korean	조선의 문신 출신 왕은 몇 명인가?	How many kings from Joseon dynasty used to be civil officers before becoming a king?	6		https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0%20%ED%83%9C%EC%A2%85								
+tydi	korean	존 조지 테리는 국가대표팀에서 몇번 활동했나요?	How many times did John Terry served in national team?	6		https://ko.wikipedia.org/wiki/%EB%8F%84%EB%84%90%EB%93%9C%20%ED%8A%B8%EB%9F%BC%ED%94%84								
+tydi	korean	한국 최초의 펀드는 언제 발행되었나요?	When was the first fund in Korea estabilished?	6		https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC%3A%EC%82%AC%EB%9E%91%EB%B0%A9/2008%EB%85%84%20%EC%A0%9C45%EC%A3%BC								
+tydi	korean	한국에는 몇 개의 법원이 있는가?	How many courts are there in Korea?	6		https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98%20%ED%96%89%EC%A0%95%20%EA%B5%AC%EC%97%AD								
