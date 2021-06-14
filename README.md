@@ -1,4 +1,4 @@
-# Code for "Challenges in Information Seeking QA:Unanswerable Questions and Paragraph Retrieval" (ACL 2021, Long)
+# Code for "Challenges in Information Seeking QA: Unanswerable Questions and Paragraph Retrieval" (ACL 2021, Long)
 
 This is the repository for baseline models and annotated data for this paper:
 Akari Asai and Eunsol Choi. Challenges in Information Seeking QA:Unanswerable Questions and Paragraph Retrieval. In: Proceedings of ACL. 2021
