@@ -1,6 +1,5 @@
-# Understanding Answerability in Information-Seeking Question Answering (EMNLP 2020 submission)
-
-This repository contains codes for *Understanding Answerability in Information-Seeking Question Answering*. 
+## Baseline codes
+This directory contains the question only baseline code.
 
 ## Set up & Requirements
 To run our code, please run the command below to install python packages.
@@ -12,14 +11,14 @@ pip -r install requirements.txt
 ## Download data
 Please download data from the NQ website, TyDi QA repository and SQuAD 2.0 website. 
 
-- [NQ](https://ai.google.com/research/NaturalQuestions/)
+- [Natural Questions](https://ai.google.com/research/NaturalQuestions/)
 - [TyDi QA](https://github.com/google-research-datasets/tydiqa)
 - [SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/) 
 
 ## Preprocess data
 First you need to convert downloaded data into certain format to train binary or three-way answer type classifier. 
 
-The commands to convert each dataset into the formats are shown below. Please changes `--type_num` to 2.0 for binary classification tasks. The default is 3.0 for NQ and TyDI QA.
+The commands to convert each dataset into the formats are shown below. Please changes `--type_num` to 2 for binary classification tasks. The default is 3 for NQ and TyDI QA.
 
 ### NQ 
 
@@ -44,13 +43,12 @@ python convert_nq_data_to_answer_type_data.py \
 ### SQuAD 2.0
 
 ```
-python convert_nq_data_to_answer_type_data.py \
+python convert_squad_data_to_answer_type_data.py \
 --squad_train_path /PATH/TO/YOUR/SQUAD/TRAIN/DATA \
 --squad_dev_path /PATH/TO/YOUR/SQUAD/DEV/DATA\
 --output_dir sqaud_q_only_two_way \
 --question_only 
 ```
-
 
 ## Train and Evaluate models
 Run the command below to train and evaluate models. After running evaluations, the detailed results with `accuracy`, `preds` (prediction results) and `output`(ground-truth labels) will be stored in `/PATH/TO/YOUR/OUTPUT/DIR/eval_outputs_results.json`
