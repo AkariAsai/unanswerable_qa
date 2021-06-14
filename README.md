@@ -22,7 +22,8 @@ In [`human_annotated_data`](human_annotated_data), we provide human annotated da
 In this work, we conduct several baseline experiments to identify the remaining headrooms in information-seeking QA. This repository include baselines for question only baseline. See the training and evaluation details in [README.md](baselines/README.md). We thank the authors of [ Riki Net](https://arxiv.org/abs/2004.14560), [Retro-reader](https://arxiv.org/abs/2001.09694), and [ETC](https://arxiv.org/abs/2004.08483) for providing their models' predictions that are used to analyze those state-of-the-art models behaviors.
 
 
-Citation and Contact
+
+## Citation and Contact
 If you find this codebase is useful or use in your work, please cite our paper.
 
 ```
