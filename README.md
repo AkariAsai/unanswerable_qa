@@ -1,7 +1,7 @@
 # Code for "Challenges in Information Seeking QA: Unanswerable Questions and Paragraph Retrieval" (ACL 2021, Long)
 
 This is the repository for baseline models and annotated data for this paper:       
-Akari Asai and Eunsol Choi. [Challenges in Information Seeking QA:Unanswerable Questions and Paragraph Retrieval](https://arxiv.org/abs/2010.11915). In: Proceedings of ACL. 2021
+Akari Asai and Eunsol Choi. [Challenges in Information Seeking QA: Unanswerable Questions and Paragraph Retrieval](https://arxiv.org/abs/2010.11915). In: Proceedings of ACL. 2021
 
 In the paper, we carefully analyze unanswerable questions in information-seeking QA dataset (i.e., Natural Questions and TyDi QA) and attempt to identify the remaining headrooms. We conduct both a range of controlled experiments and insensitive human annotations on around 800 examples across across 6 languages.
 
